@@ -1,44 +1,46 @@
-###################################################################################
-########################### 2026 ##################################################
-###################################################################################
+######################################################################
+########################### 2026 #####################################
+######################################################################
 
 Cambio By Brommers 2026
-*Balance de mana de las clases
-*se saco la lluvia
+*Balance de mana de las clases.
+*se saco la lluvia.
 *se cambio daño de las Varas/bastones de mago.
-*Items PREMIUM
+*Items PREMIUM.
 
 LudicAO por CYB 2026
-*Hechizos con nuevos sonidos
-*Mas puntos para minar
-*nuevos NPC
+*Hechizos con nuevos sonidos.
+*Mas puntos para minar.
+*Nuevos NPC.
+*Nuevos mapas.
+*Nuevos Dungeon.
 
-###################################################################################
-########################### 2018 ##################################################
-###################################################################################
+######################################################################
+########################### 2018 #####################################
+######################################################################
 
 LudicAO por CYB
 
-*Se lingotea de a 50
-*Se mina de a normal
-*Se pesca de a normal
-*Se tala de a normal
-*Nivel maximo 100
-*Es necesario tener mas de 3 caracteristicas y menos de 20 para crear personaje
-*Se puede morir de hambre o de sed, ojo con el hechizo quitar hambre
-*El envenenamiento es disminuido por 10 %, ojo con el hechizo envenenar 
-*Toxina 50 de mana
-*Se ve el nombre de los items caidos
-*Se avisa a tu clan si moriste automaticamente
-*se muestra el nombre del mapa
-*Se mejoró  la AI
-*Mana: Mago*3 / Druida*2.8 / Bardo*2.5 / Cleri*2.2 / Ase*2 / Pala*1.6 / Bandi*1.3
-*Se Agentinizaron las palabras mágicas 
-*Mana inicial variable para todos y diferenciado 
+*Se lingotea de a 50.
+*Se mina de a normal.
+*Se pesca de a normal.
+*Se tala de a normal.
+*Nivel maximo 100.
+*Es necesario tener mas de 3 caracteristicas y menos de 20 para crear personaje.
+*Se puede morir de hambre o de sed, ojo con el hechizo quitar hambre.
+*El envenenamiento es disminuido por 10 %, ojo con el hechizo envenenar.
+*Toxina 50 de mana.
+*Se ve el nombre de los items caidos.
+*Se avisa a tu clan si moriste automaticamente.
+*se muestra el nombre del mapa.
+*Se mejoró  la AI.
+*Mana: Mago*3 / Druida*2.8 / Bardo*2.5 / Cleri*2.2 / Ase*2 / Pala*1.6 / Bandi*1.3.
+*Se Agentinizaron las palabras mágicas.
+*Mana inicial variable para todos y diferenciado.
 *Da o de apu sobre la cabeza.
-*/HOGAR en 6 segundos
-*Informa nuevas capacidades al cambio de nivel
-*5 opciones de drop en TODOS los npc
+*/HOGAR en 6 segundos.
+*Informa nuevas capacidades al cambio de nivel.
+*5 opciones de drop en TODOS los npc.
 
 
 Cambio By ^[AlaNN]^
